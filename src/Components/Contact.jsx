@@ -341,7 +341,7 @@ export default function Contact() {
                   onMouseEnter={() => setIsEmailHovered(true)}
                   onMouseLeave={() => setIsEmailHovered(false)}
                 >
-                  https://www.linkedin.com/in/pulukuri-akhil/
+                https://www.linkedin.com/in/pulukuri-akhil/
                 </a>
               </div>
             </div>

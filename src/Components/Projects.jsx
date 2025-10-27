@@ -186,7 +186,7 @@ export default function Projects() {
         'A fully responsive personal portfolio website built from scratch using React.js and advanced inline styling techniques to showcase my projects and skills.',
       tags: ['React.js', 'Inline Styles', 'Responsive Design'],
       imageUrl: './pictures/port.png',
-      codeUrl: '#',
+      codeUrl: 'https://github.com/akhi45-ak/personalportfolio',
     },
     {
       title: 'Qisceet Reclaimithub',
